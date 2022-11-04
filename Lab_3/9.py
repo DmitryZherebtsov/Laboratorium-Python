@@ -8,10 +8,3 @@ for i in range(n):
     gwiazdki = gwiazdki + "*"
     i+=1
     print(gwiazdki)
-
-
-
-
-
-
-
