@@ -9,7 +9,7 @@ import random
 
 punkty = [round(random.uniform(0, 50),2) for a in range(15)]
 print(punkty)
-print("Minimalne: ", min(punkty))
-print("Maxymalnie: ", max(punkty))
+print(f'Minimalne: {min(punkty)}')
+print(f'Maxymalnie: {max(punkty)}')
 
 # for punkty in range(1, 15):
